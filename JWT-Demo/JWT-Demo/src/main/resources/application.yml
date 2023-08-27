@@ -1,0 +1,10 @@
+jwt:
+  secret: secretkey123
+
+server:
+  port: 8083
+
+
+
+
+
